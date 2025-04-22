@@ -66,7 +66,5 @@ Before setting up Multi-Agent Medical Image Analyzer  ensure the following are i
 
 7. *Explore the Platform*  
    - Use the *AI Image Analyzer* to analyze medical images.  
-   - Chat with the *AI Chatbox* for real-time health advice.  
- 
-
+   - Chat with the *AI Chatbox* for real-time health advice.
 ---
