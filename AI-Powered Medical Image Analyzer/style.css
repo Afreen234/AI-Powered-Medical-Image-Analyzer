@@ -1,0 +1,86 @@
+body {
+    background: radial-gradient(circle at center, #292929, #0e0d0d);
+    color: #ebebeb;
+    font-family: "Titillium Web", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading */
+h1, h2, h3, h4, h5, h6 {
+    color: #d6157c;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+/* Links */
+a {
+    color: #d6157c;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ff4da6;
+    text-decoration: underline;
+}
+
+/* Buttons */
+button, .stButton > button {
+    background-color: #d6157c;
+    color: white;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover, .stButton > button:hover {
+    background-color: #ff4da6;
+}
+
+/* Inputs and textareas */
+input[type="text"], input[type="password"], textarea {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border: 1px solid #d6157c;
+    border-radius: 5px;
+    padding: 0.5rem;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+input:focus, textarea:focus {
+    border-color: #ff4da6;
+    outline: none;
+}
+
+/* Cards or sections */
+.container {
+    background-color: #1a1a1a;
+    padding: 1.5rem;
+    margin: 1.5rem auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #d6157c33;
+    max-width: 600px;
+}
+
+/* File upload */
+.stFileUploader {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Animations (optional) */
+@keyframes pulse {
+    0% { box-shadow: 0 0 5px #d6157c; }
+    50% { box-shadow: 0 0 15px #ff4da6; }
+    100% { box-shadow: 0 0 5px #d6157c; }
+}
+
+.glow {
+    animation: pulse 2s infinite;
+}

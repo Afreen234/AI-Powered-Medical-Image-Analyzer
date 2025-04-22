@@ -1,0 +1,52 @@
+Patient Name: Thanishka
+Age: 21
+Gender: Female
+Test Date: April 18, 2025
+Test Report Number: 20250418-004
+
+Clinical Information:
+
+Symptoms: Fatigue, weight gain, dry skin
+
+Reason for test: Routine thyroid check-up due to family history of thyroid disorders.
+
+Thyroid Function Test Results
+TSH (Thyroid Stimulating Hormone)
+
+Result: 7.6 µIU/mL
+
+Reference Range: 0.4 - 4.0 µIU/mL
+
+Interpretation: Elevated (Possible hypothyroidism)
+
+Free T3 (Triiodothyronine)
+
+Result: 2.1 pg/mL
+
+Reference Range: 2.3 - 4.2 pg/mL
+
+Interpretation: Low (Suggestive of hypothyroid state)
+
+Free T4 (Thyroxine)
+
+Result: 0.9 ng/dL
+
+Reference Range: 0.8 - 1.8 ng/dL
+
+Interpretation: Low-normal (Could indicate subclinical hypothyroidism)
+
+Anti-TPO (Anti-Thyroid Peroxidase Antibodies)
+
+Result: 145 IU/mL
+
+Reference Range: < 35 IU/mL
+
+Interpretation: Elevated (Indicates possible autoimmune thyroid disorder like Hashimoto’s thyroiditis)
+
+Anti-TG (Anti-Thyroglobulin Antibodies)
+
+Result: 50 IU/mL
+
+Reference Range: < 40 IU/mL
+
+Interpretation: Elevated (Supports the possibility of autoimmune thyroid disease)
